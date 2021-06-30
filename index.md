@@ -1,20 +1,8 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>crypto//weed//coffee</title>
-
-  </head>
-  <body>
-    <h1>crypto//weed//coffee</h1>
-    <h2>the poor mans speedball</h2>
-
-    <p>
-      my first commits 6/30/21
-      <br>
-      fnl//drft
-  </p>
+# crypto//weed//coffee
+## the poor, _poor_ mans speedball
 
 
-  </body>
-</html>
+
+
+
+fnl//drft 6/30/21
