@@ -1,4 +1,8 @@
 # crypto//weed//coffee
+<br>
+
 ### the poor, _poor_ mans speedball
->fnl//drft 
+<br>
+
+>fnl//drft
 >6/30/21
