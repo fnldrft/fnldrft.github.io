@@ -1,3 +1,1 @@
-# crypto
-# weed
-# coffee
+hello welcome to my github page
