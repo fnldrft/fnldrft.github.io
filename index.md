@@ -1,8 +1,3 @@
-###### crypto//weed//coffee
-<br>
+## fnl//drft
 
-##### the poor, _poor_ mans speedball
-<br>
-
->###### fnl//drft
->###### 6/30/21
+###### coming soon...
